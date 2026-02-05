@@ -1,4 +1,4 @@
-# Hr-market<!DOCTYPE html>
+# Hr-market
 <html>
     <head>
         <title>Page Title</title>
@@ -6,7 +6,7 @@
     <body>
         
     </body>
-</html><!DOCTYPE html>
+</html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
